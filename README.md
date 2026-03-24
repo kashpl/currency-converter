@@ -8,7 +8,7 @@ This project was created as part of my development journey, focusing on building
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here after publishing)
+https://kashpl.github.io/currency-converter/
 
 ---
 
@@ -38,4 +38,4 @@ This project was created as part of my development journey, focusing on building
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/currency-converter.git
+git clone https://github.com/kashpl/currency-converter.git
