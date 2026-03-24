@@ -1,12 +1,16 @@
 # 💱 Currency Converter
 
-A modern and clean currency converter built with HTML, CSS and JavaScript.
+A modern, intuitive and real-time currency converter built with HTML, CSS and JavaScript.
 
 This project was created as part of my development journey, focusing on building something that feels real, useful and well-designed — not just another basic exercise.
 
 ---
 
-![App Preview](./preview.png)
+## 📸 Preview
+
+<p align="center">
+  <img src="./preview.png" width="600"/>
+</p>
 
 🔗 Live Demo: https://kashpl.github.io/currency-converter/
 
