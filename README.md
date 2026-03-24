@@ -6,9 +6,9 @@ This project was created as part of my development journey, focusing on building
 
 ---
 
-## 🚀 Live Demo
+![App Preview](./preview.png)
 
-https://kashpl.github.io/currency-converter/
+🔗 Live Demo: https://kashpl.github.io/currency-converter/
 
 ---
 
